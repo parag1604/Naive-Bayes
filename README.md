@@ -6,7 +6,7 @@ Code for a Gaussian naive Bayes classifier written from scratch and checked agai
 
 ## Theory
 
-Please note that the theory corresponding to the codes is hosted on this [page](https://parag1604.github.io/notes/Machine-Learning/Discriminant-Analysis) (see the Gaussian naive Bayes subsection)
+Please note that the theory corresponding to the codes is hosted on this [page](https://parag1604.github.io/notes/Machine-Learning/Bayesian-Decision-Theory#naive-bayes) (section "Naive Bayes")
 
 ## Python Environment Setup
 
