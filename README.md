@@ -20,11 +20,9 @@ pip install -r requirements.txt
 - Scipy - for the Gaussian density in version0
 - Scikit-learn - for loading the datasets and for the reference GaussianNB
 
-## Data
-
-Both datasets ship with scikit-learn (`load_iris`, `load_digits`), so nothing needs to be downloaded. Select one with `--dataset iris` (default) or `--dataset digits`.
-
 ## Running
+
+Both datasets ship with scikit-learn (`load_iris`, `load_digits`). Select one with `--dataset iris` (default) or `--dataset digits`.
 
 ### 0. Naive Bayes from scratch
 
